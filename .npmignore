@@ -1,0 +1,8 @@
+/test/
+/polyfill/
+/webpack.config.js
+/tsconfig.json
+/tslint.json
+/.babelrc
+/rollup.config.js
+/docs
